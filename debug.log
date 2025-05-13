@@ -1,0 +1,2 @@
+[9952:9956:0319/211509.141:VERBOSE1:installer.cc(488)] "C:\Users\brayan.correa\Downloads\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={13C7754F-1D03-5FC6-35F3-870F8035DD5A}&lang=pt-PT&browser=3&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&brand=FKPE&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[9952:9956:0319/211709.646:VERBOSE1:installer.cc(605)] Metainstaller WMain returning: 0
